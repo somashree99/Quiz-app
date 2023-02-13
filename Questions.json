@@ -1,0 +1,250 @@
+all_questions = {
+    "questions": [{
+        "question": "A computer program that translates one statement of program instructions at a time into machine language is called",
+        "correct_answer": "Compiler",
+        "options": [
+          "CPU",
+          "Interpreter",
+          "Compiler",
+          "Simulator"
+        ]
+      },
+  
+      {
+        "question": " NTFS stands for?",
+        "correct_answer": "New Technology File System ",
+        "options": ["New Trend File Saving",
+          "Network File Saving",
+          "New Technology File System ",
+          "None Of These"
+        ]
+      },
+  
+      {
+        "question": "Which variable type can have only two possible values?",
+        "correct_answer": "bool",
+        "options": ["Integer",
+          "String",
+          "double",
+          "bool"
+        ],
+  
+      },
+  
+      {
+        "question": " In computer science and information technology (IT), DNS is an abbreviation of",
+        "options": ["Direct Name System",
+          "Domain Name System",
+          "Direct Name Software",
+          "Domain Name Software"
+        ],
+        "correct_answer": "Domain Name System"
+      },
+      {
+        "question": "In C++, the library function exit() causes an exit from the",
+        "options": ["statement",
+          "loop in which it occurs",
+          "function in which it occurs",
+          "program in which it occurs"
+        ],
+        "correct_answer": "program in which it occurs"
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In C++, a function name must be followed by",
+        "correct_answer": "parentheses",
+        "options": [
+          "braces",
+          "parentheses",
+          "statement",
+          "variable name"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these is a high-level machine-oriented language for the machines that are of the GEC 4080 series?",
+        "correct_answer": "Babbage",
+        "options": [
+          "ALGOL",
+          "Babbage",
+          "SNOBOL",
+          " LOGO"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these refers to a systems programming language for the Intel family microcomputers?",
+        "correct_answer": "PL/M",
+        "options": [
+          "PLA",
+          "PL/CT",
+          "PL/M",
+          "PL/C"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": " What is the CPU\’s section that interprets, selects, and also sees to a program instructions\’ execution?",
+        "correct_answer": "Control unit",
+        "options": [
+          "Register unit",
+          "Control unit",
+          "ALU",
+          "Memory"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": " What access method do we use to obtain any record out of a cassette tape?",
+        "correct_answer": "Sequential",
+        "options": [
+          "Random",
+          " Direct",
+          "Sequential",
+          "All of the above"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The 1\’s complement of 10 is:",
+        "correct_answer": "01",
+        "options": [
+          "10",
+          "11",
+          "110",
+          "01"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the common boundary present between two systems known as?",
+        "correct_answer": "Interface",
+        "options": [
+          "Interface",
+          "Surface",
+          "Interdiction",
+          "None of the above"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": " _____________ is a computer that has been designed so that it is as compact as possible.",
+        "correct_answer": "Microcomputer",
+        "options": [
+          "Supercomputer",
+          "Mini",
+          "Mainframe",
+          "Microcomputer"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which command is used to display the top of the file?",
+        "correct_answer": "head",
+        "options": [
+          "cat",
+          "head",
+          "more",
+          "grep"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Out of the following, which one is still useful if we want to add numbers?",
+        "correct_answer": "Abacus",
+        "options": [
+          "UNIVAC",
+          "Abacus",
+          "ENIAC",
+          "EDSAC"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the number used to control the forms of other numbers known as?",
+        "correct_answer": "Mask",
+        "options": [
+          "Mask",
+          "Map",
+          "Marker",
+          "Mantissa"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "One packet on any data link is called:",
+        "correct_answer": "Frame",
+        "options": [
+          "Group",
+          " Block",
+          "Frame",
+          "Path"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "A total of how many bit codes are used for TELEPRINTER machines by Murray code?",
+        "correct_answer": "5",
+        "options": [
+          "25",
+          "9",
+          "5",
+          "4"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": " A list of various coded instructions is known as:",
+        "correct_answer": "Computer program",
+        "options": [
+          "Flowchart",
+          "Utility programs",
+          "Algorithm",
+          "Computer program"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which command is used to sort the lines of data in a file in reverse order in UNIX?",
+        "correct_answer": "sort -r",
+        "options": [
+          "sort",
+          "sh",
+          "st",
+          "sort -r"
+        ]
+      }
+    ]
+  }
+  
+ 
